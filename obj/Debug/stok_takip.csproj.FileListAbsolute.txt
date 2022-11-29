@@ -1,0 +1,36 @@
+c:\users\sara\documents\visual studio 2017\Projects\stok_takip\stok_takip\bin\Debug\stok_takip.exe.config
+c:\users\sara\documents\visual studio 2017\Projects\stok_takip\stok_takip\bin\Debug\stok_takip.exe
+c:\users\sara\documents\visual studio 2017\Projects\stok_takip\stok_takip\bin\Debug\stok_takip.pdb
+c:\users\sara\documents\visual studio 2017\Projects\stok_takip\stok_takip\obj\Debug\stok_takip.csprojResolveAssemblyReference.cache
+c:\users\sara\documents\visual studio 2017\Projects\stok_takip\stok_takip\obj\Debug\stok_takip.Form1.resources
+c:\users\sara\documents\visual studio 2017\Projects\stok_takip\stok_takip\obj\Debug\stok_takip.Properties.Resources.resources
+c:\users\sara\documents\visual studio 2017\Projects\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.GenerateResource.Cache
+c:\users\sara\documents\visual studio 2017\Projects\stok_takip\stok_takip\obj\Debug\stok_takip.exe
+c:\users\sara\documents\visual studio 2017\Projects\stok_takip\stok_takip\obj\Debug\stok_takip.pdb
+C:\Users\SARA\documents\visual studio 2017\Projects\stok_takip\stok_takip\obj\Debug\stok_takip.Form2.resources
+C:\Users\SARA\documents\visual studio 2017\Projects\stok_takip\stok_takip\obj\Debug\stok_takip.anaSayfa.resources
+C:\Users\SARA\documents\visual studio 2017\Projects\stok_takip\stok_takip\obj\Debug\stok_takip.stokgiriscıkıs.resources
+C:\Users\eto\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.csprojAssemblyReference.cache
+C:\Users\eto\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.Form1.resources
+C:\Users\eto\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.Form2.resources
+C:\Users\eto\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.anaSayfa.resources
+C:\Users\eto\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.Properties.Resources.resources
+C:\Users\eto\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.stokgiriscıkıs.resources
+C:\Users\eto\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.GenerateResource.cache
+C:\Users\eto\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.CoreCompileInputs.cache
+C:\Users\eto\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.exe
+C:\Users\eto\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.pdb
+C:\Users\eto\Desktop\stok_takip\stok_takip\bin\Debug\stok_takip.exe.config
+C:\Users\eto\Desktop\stok_takip\stok_takip\bin\Debug\stok_takip.exe
+C:\Users\eto\Desktop\stok_takip\stok_takip\bin\Debug\stok_takip.pdb
+C:\Users\eto\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.ResolveComReference.cache
+C:\Users\SARA\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.csprojResolveAssemblyReference.cache
+C:\Users\SARA\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.ResolveComReference.cache
+C:\Users\SARA\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.Form1.resources
+C:\Users\SARA\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.Form2.resources
+C:\Users\SARA\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.anaSayfa.resources
+C:\Users\SARA\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.Properties.Resources.resources
+C:\Users\SARA\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.stokgiriscıkıs.resources
+C:\Users\SARA\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.GenerateResource.Cache
+C:\Users\SARA\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.exe
+C:\Users\SARA\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.pdb
